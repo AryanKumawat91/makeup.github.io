@@ -7,7 +7,7 @@
     font-size: 3rem; 
     line-height: 1.5; 
     padding: 3%;  
-    text-decoration:  dotted;
+
 }
 .navbar-brand{
     font-size: 1rem;
@@ -24,4 +24,14 @@
 .img {
     
      width: 200px;
+}
+#photo{
+     padding: 7%;
+    background-color: rgb(248, 213, 167);
+}
+
+h2{
+    
+    padding: 7%;
+    color: black;
 }
