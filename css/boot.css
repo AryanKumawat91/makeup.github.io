@@ -1,0 +1,27 @@
+#Heading{
+    font-family: 'Alkatra', cursive;
+    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Pacifico', cursive;
+    font-family: 'Shadows Into Light', cursive;
+    font-family: 'Yeseva One', cursive;
+    font-size: 3rem; 
+    line-height: 1.5; 
+    padding: 3%;  
+    text-decoration:  dotted;
+}
+.navbar-brand{
+    font-size: 1rem;
+    font-family: 'Alkatra', cursive;
+   font-family: 'Fira Sans', sans-serif;
+   font-family: 'Pacifico', cursive;
+}
+.container-fluid{
+    padding: 5% 15%;
+}
+#titel{
+    background-color: rgb(238, 235, 156);
+}
+.img {
+    
+     width: 200px;
+}
