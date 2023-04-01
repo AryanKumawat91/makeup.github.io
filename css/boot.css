@@ -51,10 +51,8 @@ h2{
 }
 #pricing{
     padding: 3.5%;
-    margin-bottom: 5%;
-    background-color: rgb(252, 239, 223);
+    background-color: rgb(255, 240, 222);
 }
 .card-body{
-    padding: 3%;
-   
+    padding: 3%;  
 }
