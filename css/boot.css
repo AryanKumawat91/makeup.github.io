@@ -1,3 +1,4 @@
+
 #Heading{
     font-family: 'Alkatra', cursive;
     font-family: 'Fira Sans', sans-serif;
@@ -8,27 +9,33 @@
    
     font-size: 3rem;
     line-height: 1.5; 
-    padding: 2%;  
+    padding: 2%; 
+     
   
 }
+@media (max-width: 466px){
+    #Heading{
+        font-size: 2rem;
+    }
+    
+}
+
 .navbar-brand{
     font-size: 1rem;
     font-family: 'Alkatra', cursive;
    font-family: 'Fira Sans', sans-serif;
    font-family: 'Pacifico', cursive;
 }
+
 .container-fluid{
     padding: 5% 15%;
 }
 #titel{
     background-color: rgb(238, 235, 156);
 }
-.img {
-    
-     width: 200px;
-}
+
 #photo{
-    padding: 7%;
+    padding: 4% ;
     background-color: rgb(248, 213, 167);
 }
 
@@ -41,7 +48,6 @@ h1{
     font-size: 5ren;
     padding: 5%;
 }
-
 h2{
     font-size: 10rem;
     font-style: italic;
@@ -49,10 +55,18 @@ h2{
     color: black;
     font-weight: bold;
 }
+
 #pricing{
     padding: 3.5%;
     background-color: rgb(255, 240, 222);
 }
 .card-body{
     padding: 3%;  
+}
+
+#contact{
+    padding: 4% 15%;
+}
+.social{
+    margin: 20px;
 }
