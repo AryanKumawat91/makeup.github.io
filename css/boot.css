@@ -6,7 +6,7 @@
     font-family: 'Yeseva One', cursive;
     
    
-    font-size: 4rem;
+    font-size: 3rem;
     line-height: 1.5; 
     padding: 2%;  
   
@@ -51,8 +51,10 @@ h2{
 }
 #pricing{
     padding: 3.5%;
-  background-color: rgb(221, 218, 218);
+    margin-bottom: 5%;
+    background-color: rgb(252, 239, 223);
 }
 .card-body{
-    background-color: rgb(235, 234, 234);
+    padding: 3%;
+   
 }
