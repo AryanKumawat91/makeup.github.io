@@ -61,7 +61,7 @@ h2{
     font-weight: bold;
 }
 .img{
-    rotate: 2;
+    
     margin-bottom: 2%;
     border-radius: 100%;
     width: 25%;
@@ -76,6 +76,7 @@ h2{
 }
 
 #contact{
+    background-color: aliceblue;
     padding: 4% 15%;
 }
 .social{
