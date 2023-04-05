@@ -15,13 +15,6 @@
   
 }
 
-@media (max-width: 466px){
-    #Heading{
-        font-size: 2rem;
-    }
-    
-}
-
 h1{
     
     font-size: 5ren;
@@ -79,4 +72,17 @@ h2{
 }
 .social{
     margin: 3%;
+}
+.video{
+    width: 32%;
+    margin: 2%;
+}
+@media (max-width: 466px){
+    #Heading{
+        font-size: 2rem;
+    }
+    .video{
+        width: 45%;
+    }
+    
 }
